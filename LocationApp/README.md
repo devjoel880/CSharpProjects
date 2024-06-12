@@ -8,7 +8,7 @@ LocationApp is a simple and user-friendly application that allows users to searc
 ## Installation
 To install LocationApp on your system, follow these steps:
 
-1. Go to the releases folder.
+1. Go to the releases folder (LocationApp/bin/Release/Output)
 2. Download the latest version of LocationApp Setup.exe.
 3. Run the downloaded Setup.exe file.
 4. Follow the on-screen instructions to complete the installation process.

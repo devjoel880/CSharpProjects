@@ -1,0 +1,17 @@
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\bin\Debug\LocationApp.exe.config
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\bin\Debug\LocationApp.exe
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\bin\Debug\LocationApp.pdb
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\obj\Debug\LocationApp.csproj.AssemblyReference.cache
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\obj\Debug\LocationApp.Form1.resources
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\obj\Debug\LocationApp.Properties.Resources.resources
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\obj\Debug\LocationApp.csproj.GenerateResource.cache
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\obj\Debug\LocationApp.csproj.CoreCompileInputs.cache
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\obj\Debug\Location.C04F071E.Up2Date
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\obj\Debug\LocationApp.exe
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\obj\Debug\LocationApp.pdb
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\bin\Debug\LocationApp.exe.manifest
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\bin\Debug\LocationApp.application
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\obj\Debug\LocationApp.exe.manifest
+C:\Users\Devjoel\source\repos\LocationApp\LocationApp\obj\Debug\LocationApp.application

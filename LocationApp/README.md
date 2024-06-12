@@ -1,4 +1,6 @@
 # LocationApp
+![image](https://github.com/devjoel880/CSharpProjects/assets/153825453/66c7509a-2444-40a8-a888-7a0fc6ca7deb)
+
 
 ## Description
 LocationApp is a simple and user-friendly application that allows users to search for geographic locations using the Geoapify API and displays the results.
@@ -22,6 +24,6 @@ To install LocationApp on your system, follow these steps:
 
 ## License
 This project is licensed under the MIT License.
-
+ 
 ## Support
 For any issues, questions or contributions regarding this application, please contact devjoel80@gmail.com.

@@ -24,4 +24,4 @@ To install LocationApp on your system, follow these steps:
 This project is licensed under the MIT License.
 
 ##Support
-For any issues, questions or contributions regarding this application, please contact devjoel@gmail.com.
+For any issues, questions or contributions regarding this application, please contact devjoel80@gmail.com.
